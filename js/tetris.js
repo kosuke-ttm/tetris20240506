@@ -199,7 +199,8 @@ function newGame() {
     init();
     newShape();
     lose = false;
-    interval = setInterval( tick, 400 );
+    interval = setInterval( tick, 1000 );
+    interval_normal = setInterval( tick, 1500 );
 }
 
 function clearAllIntervals(){
