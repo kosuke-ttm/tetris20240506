@@ -1,0 +1,54 @@
+commit b5653cde1147c904c30cc83facdde6b458db2992
+Merge: 3505225 ca2341e
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:58:53 2024 +0900
+
+    Merge branch 'main' of https://github.com/kosuke-ttm/tetris20240506
+
+commit 35052253a0b5b777d5f7cf0db747e4abb15c2024
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:54:28 2024 +0900
+
+    Aquamarineをskyblueに変更
+
+commit ca2341ed8f6ce14153930340af5b69693b330c7b
+Author: 辰巳 公祐 <115972888+kosuke-ttm@users.noreply.github.com>
+Date:   Mon May 6 15:53:36 2024 +0900
+
+    blueをskyblueに変更
+
+commit 1f8f9269885ff19be8911f73c6f45d6a743fdeb3
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:45:32 2024 +0900
+
+    ピースの落ちるスピードの変更
+
+commit 06b4df5b3d9506fdd5d07782344d4b0b09799a1a
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:38:20 2024 +0900
+
+    テトリスのピースの色を変更
+
+commit a7e18a98d005fc89c890af8a6334f118cd7c54a2
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:18:32 2024 +0900
+
+    ファイルをインポート
+
+commit 28e6255fb7435a0c66e85711561ee0ace8e3d90f
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 14:11:35 2023 +0900
+
+    Update tetris.js
+
+commit c76c6d8780ad7309bfc6ecdbbd7c93faa2a3f11f
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 13:59:57 2023 +0900
+
+    greenからlimeに変更しました
+
+commit d4d6e7de2b1d9762b04c073e7026f14c03030071
+Author: kosuke <221205102@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 13:38:37 2023 +0900
+
+    canvas-tetrisのソースコードをインポート
